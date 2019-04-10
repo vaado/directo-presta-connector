@@ -1,0 +1,11 @@
+{
+  "name": "vaado/directo-presta-connector",
+  "autoload": {
+    "psr-4": {
+      "DirectoPrestaConnector\\": "src/"
+    }
+  },
+  "require": {
+    "vaado/directo": "dev-develop"
+  }
+}
